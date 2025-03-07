@@ -6,7 +6,7 @@ PiPER를 사용하며 발생한 이슈 및 Q&amp;A를 모아놓은 저장소입�
 
 
 ```
-git clone https://github.com/WeGo-Robotics/limo_ros2_ws.git
+git clone https://github.com/WeGo-Robotics/piper_ws.git
 ```
 
 WeGo Robotics에서 제공하는 ID와 PW를 입력해야 합니다.
